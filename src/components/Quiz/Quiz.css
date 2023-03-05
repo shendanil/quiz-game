@@ -1,0 +1,29 @@
+.answers {
+    display: flex;
+}
+
+.answers > button {
+    border: 2px solid #40513B;
+    background: white;
+    color: #40513B;
+    font-size: 1rem;
+    padding: .5rem 1rem;
+    margin-right: 1rem;
+}
+
+.question-container {
+    margin-bottom: 2rem;
+}
+
+.question {
+    margin-bottom: 1rem;
+    color: #40513B;
+}
+
+.quiz-page-positioning {
+    padding: 3rem;
+}
+
+.btn-chosen {
+    background: red !important;
+}
